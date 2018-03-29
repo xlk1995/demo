@@ -8,7 +8,7 @@
  └── js
      └── main.js
 index.html 的内容为
- <!DOCTYPE>
+``` <!DOCTYPE>
  <title>Hello</title>
  <h1>Hi</h1>
 css/style.css 的内容为
@@ -16,3 +16,4 @@ css/style.css 的内容为
 js/main.js 的内容为
  var string = "Hello World"
  alert(string)
+```
